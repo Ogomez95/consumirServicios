@@ -1,5 +1,5 @@
 {
-  "user":[
+  "user": [
     {"id": 1, "name": "Marines Mendez", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
     {"id": 2, "name": "Jose", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
     {"id": 3, "name": "Carmen", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
